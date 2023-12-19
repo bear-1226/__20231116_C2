@@ -1,7 +1,5 @@
-import random
-import csv
 import pyinputplus as pyip
-from tools import getStudents,saveToCSV
+from outter.tools import getStudents,saveToCSV
 
 
 
