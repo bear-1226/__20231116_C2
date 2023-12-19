@@ -1,5 +1,6 @@
 import pyinputplus as pyip
-from outter.tools import getStudents,saveToCSV
+from outter import getStudents
+from outter import saveToCSV
 
 
 
