@@ -6,3 +6,5 @@ matplotlib
 numpy
 SQLAlchemy
 jinja2
+yfinance
+pandas_datareader
